@@ -1,9 +1,8 @@
-
 .bgimage {
-    height:40vh;
-    background: url('images/bg.jpg');
-    background-size:cover;
-    position:relative;
+    height: 40vh;
+    background: url("images/bg.jpg");
+    background-size: cover;
+    position: relative;
     border-radius: 30px;
 }
 .main_title {
@@ -13,7 +12,7 @@
     text-align: center;
 }
 .main_name {
-    font: 3em"Fira Sans", sans-serif;
+    font: 3em "Fira Sans", sans-serif;
     color: whitesmoke;
     text-align: center;
 }
@@ -45,25 +44,25 @@
 }
 .imageAboutPage {
     float: left;
-    height: 30%x;
+    height: 30%;
     width: 235px;
     font: 1.2em "Fira Sans", sans-serif;
     padding: 15px;
 }
 .heading {
-    float:right;
+    float: right;
 }
 body {
     background-color: #333333;
     color: whitesmoke;
-    margin-left:242px;
-    margin-right:242px;
-    max-width:1194px;
+    margin-left: 242px;
+    margin-right: 242px;
+    max-width: 1194px;
 }
 .waterfall {
     float: right;
-    height: 70%x;
-    width: 400pxpx;
+    height: 70%;
+    width: 400px;
     font: 1em "Fira Sans", sans-serif;
 }
 .aboutext {
